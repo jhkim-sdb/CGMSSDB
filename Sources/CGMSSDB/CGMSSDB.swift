@@ -7,7 +7,7 @@ open class CGMSSDB {
         print("hello")
     }
     
-    init() {
+    public init() {
         sayHello()
     }
 }
