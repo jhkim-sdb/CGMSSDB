@@ -7,7 +7,7 @@
 
 import Foundation
 
-struct CToNative {
+public struct CToNative {
     var name: String
     
     public init(name: String) {
